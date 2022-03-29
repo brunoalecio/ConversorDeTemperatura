@@ -1,3 +1,3 @@
-#EXERCÍCIO EM PYTHON:
+# EXERCÍCIO EM PYTHON:
 
-##Exercício que converte unidades de Graus celcius para Graus Fharenheit.
+## Exercício que converte unidades de Graus celcius para Graus Fharenheit.
